@@ -1,4 +1,11 @@
 # ivbot
-vkbot for dialog
 
-- add your commands with text/picture in chat
+Бот для беседы ВКонтакте.
+
+Умеет:
+  Показывать расписание на текущий/завтрашний день
+  Определять четную/нечетную неделю
+  Запоминать/удалять команды с текстом/картинкой
+  
+Пример работы:
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/PQvR08Q/ivbot.png" alt="ivbot" border="0"></a>
