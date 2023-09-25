@@ -10,4 +10,4 @@
   
 # Пример работы:
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/PQvR08Q/ivbot.png" alt="ivbot" border="0"></a>
+<img src="https://github.com/nayutalienx/ivbot/blob/master/1.png" alt="ivbot" border="0">
